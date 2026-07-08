@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vardhineeditharak/LeetCode/tree/master/0001-two-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vardhineeditharak/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vardhineeditharak/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/vardhineeditharak/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vardhineeditharak/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/vardhineeditharak/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vardhineeditharak/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Greedy
+|  |
+| ------- |
+| [1710-maximum-units-on-a-truck](https://github.com/vardhineeditharak/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 <!---LeetCode Topics End-->
