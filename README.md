@@ -124,11 +124,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/vardhineeditharak/LeetCode/tree/master/0139-word-break) |
 | [0416-partition-equal-subset-sum](https://github.com/vardhineeditharak/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0583-delete-operation-for-two-strings](https://github.com/vardhineeditharak/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vardhineeditharak/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## String
 |  |
 | ------- |
 | [0139-word-break](https://github.com/vardhineeditharak/LeetCode/tree/master/0139-word-break) |
+| [0583-delete-operation-for-two-strings](https://github.com/vardhineeditharak/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 ## Trie
 |  |
 | ------- |
