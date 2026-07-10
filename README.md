@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/vardhineeditharak/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vardhineeditharak/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/vardhineeditharak/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/vardhineeditharak/LeetCode/tree/master/0455-assign-cookies) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vardhineeditharak/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1710-maximum-units-on-a-truck](https://github.com/vardhineeditharak/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 ## Hash Table
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vardhineeditharak/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vardhineeditharak/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/vardhineeditharak/LeetCode/tree/master/0455-assign-cookies) |
 | [1710-maximum-units-on-a-truck](https://github.com/vardhineeditharak/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 ## Heap (Priority Queue)
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/vardhineeditharak/LeetCode/tree/master/0455-assign-cookies) |
 | [1323-maximum-69-number](https://github.com/vardhineeditharak/LeetCode/tree/master/1323-maximum-69-number) |
 | [1710-maximum-units-on-a-truck](https://github.com/vardhineeditharak/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 ## Math
@@ -176,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vardhineeditharak/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/vardhineeditharak/LeetCode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
