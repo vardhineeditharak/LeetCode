@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vardhineeditharak/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0139-word-break](https://github.com/vardhineeditharak/LeetCode/tree/master/0139-word-break) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vardhineeditharak/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/vardhineeditharak/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/vardhineeditharak/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vardhineeditharak/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1710-maximum-units-on-a-truck](https://github.com/vardhineeditharak/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vardhineeditharak/LeetCode/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/vardhineeditharak/LeetCode/tree/master/0139-word-break) |
+| [0347-top-k-frequent-elements](https://github.com/vardhineeditharak/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Stack
 |  |
 | ------- |
@@ -101,20 +103,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vardhineeditharak/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vardhineeditharak/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/vardhineeditharak/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vardhineeditharak/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/vardhineeditharak/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1710-maximum-units-on-a-truck](https://github.com/vardhineeditharak/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vardhineeditharak/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/vardhineeditharak/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vardhineeditharak/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vardhineeditharak/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/vardhineeditharak/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -162,4 +168,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vardhineeditharak/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vardhineeditharak/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/vardhineeditharak/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
