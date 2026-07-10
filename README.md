@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vardhineeditharak/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/vardhineeditharak/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/vardhineeditharak/LeetCode/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/vardhineeditharak/LeetCode/tree/master/0605-can-place-flowers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vardhineeditharak/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0860-lemonade-change](https://github.com/vardhineeditharak/LeetCode/tree/master/0860-lemonade-change) |
 | [1710-maximum-units-on-a-truck](https://github.com/vardhineeditharak/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/vardhineeditharak/LeetCode/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/vardhineeditharak/LeetCode/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/vardhineeditharak/LeetCode/tree/master/0860-lemonade-change) |
 | [1323-maximum-69-number](https://github.com/vardhineeditharak/LeetCode/tree/master/1323-maximum-69-number) |
 | [1710-maximum-units-on-a-truck](https://github.com/vardhineeditharak/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
