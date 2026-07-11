@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/vardhineeditharak/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/vardhineeditharak/LeetCode/tree/master/0070-climbing-stairs) |
 | [1323-maximum-69-number](https://github.com/vardhineeditharak/LeetCode/tree/master/1323-maximum-69-number) |
 ## Design
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/vardhineeditharak/LeetCode/tree/master/0067-add-binary) |
 | [0139-word-break](https://github.com/vardhineeditharak/LeetCode/tree/master/0139-word-break) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vardhineeditharak/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0583-delete-operation-for-two-strings](https://github.com/vardhineeditharak/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
@@ -197,4 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/vardhineeditharak/LeetCode/tree/master/0455-assign-cookies) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/vardhineeditharak/LeetCode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/vardhineeditharak/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
