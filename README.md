@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/vardhineeditharak/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/vardhineeditharak/LeetCode/tree/master/0605-can-place-flowers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vardhineeditharak/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0846-hand-of-straights](https://github.com/vardhineeditharak/LeetCode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/vardhineeditharak/LeetCode/tree/master/0860-lemonade-change) |
 | [1710-maximum-units-on-a-truck](https://github.com/vardhineeditharak/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 ## Hash Table
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vardhineeditharak/LeetCode/tree/master/0001-two-sum) |
 | [0139-word-break](https://github.com/vardhineeditharak/LeetCode/tree/master/0139-word-break) |
 | [0347-top-k-frequent-elements](https://github.com/vardhineeditharak/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0846-hand-of-straights](https://github.com/vardhineeditharak/LeetCode/tree/master/0846-hand-of-straights) |
 ## Stack
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/vardhineeditharak/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vardhineeditharak/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/vardhineeditharak/LeetCode/tree/master/0455-assign-cookies) |
+| [0846-hand-of-straights](https://github.com/vardhineeditharak/LeetCode/tree/master/0846-hand-of-straights) |
 | [1710-maximum-units-on-a-truck](https://github.com/vardhineeditharak/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 ## Heap (Priority Queue)
 |  |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/vardhineeditharak/LeetCode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/vardhineeditharak/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/vardhineeditharak/LeetCode/tree/master/0605-can-place-flowers) |
+| [0846-hand-of-straights](https://github.com/vardhineeditharak/LeetCode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/vardhineeditharak/LeetCode/tree/master/0860-lemonade-change) |
 | [1323-maximum-69-number](https://github.com/vardhineeditharak/LeetCode/tree/master/1323-maximum-69-number) |
 | [1710-maximum-units-on-a-truck](https://github.com/vardhineeditharak/LeetCode/tree/master/1710-maximum-units-on-a-truck) |
