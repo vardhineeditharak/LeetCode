@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vardhineeditharak/LeetCode/tree/master/0070-climbing-stairs) |
 | [1323-maximum-69-number](https://github.com/vardhineeditharak/LeetCode/tree/master/1323-maximum-69-number) |
 ## Design
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/vardhineeditharak/LeetCode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/vardhineeditharak/LeetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/vardhineeditharak/LeetCode/tree/master/0139-word-break) |
 | [0416-partition-equal-subset-sum](https://github.com/vardhineeditharak/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0583-delete-operation-for-two-strings](https://github.com/vardhineeditharak/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/vardhineeditharak/LeetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/vardhineeditharak/LeetCode/tree/master/0139-word-break) |
 ## Binary Indexed Tree
 |  |
