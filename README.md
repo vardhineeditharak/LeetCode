@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vardhineeditharak/LeetCode/tree/master/0001-two-sum) |
+| [0055-jump-game](https://github.com/vardhineeditharak/LeetCode/tree/master/0055-jump-game) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vardhineeditharak/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0139-word-break](https://github.com/vardhineeditharak/LeetCode/tree/master/0139-word-break) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vardhineeditharak/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/vardhineeditharak/LeetCode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/vardhineeditharak/LeetCode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/vardhineeditharak/LeetCode/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/vardhineeditharak/LeetCode/tree/master/0860-lemonade-change) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/vardhineeditharak/LeetCode/tree/master/0055-jump-game) |
 | [0139-word-break](https://github.com/vardhineeditharak/LeetCode/tree/master/0139-word-break) |
 | [0416-partition-equal-subset-sum](https://github.com/vardhineeditharak/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0583-delete-operation-for-two-strings](https://github.com/vardhineeditharak/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
