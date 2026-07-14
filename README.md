@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/vardhineeditharak/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/vardhineeditharak/LeetCode/tree/master/0070-climbing-stairs) |
+| [0131-palindrome-partitioning](https://github.com/vardhineeditharak/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/vardhineeditharak/LeetCode/tree/master/0139-word-break) |
 | [0416-partition-equal-subset-sum](https://github.com/vardhineeditharak/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0583-delete-operation-for-two-strings](https://github.com/vardhineeditharak/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vardhineeditharak/LeetCode/tree/master/0067-add-binary) |
+| [0131-palindrome-partitioning](https://github.com/vardhineeditharak/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/vardhineeditharak/LeetCode/tree/master/0139-word-break) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vardhineeditharak/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0583-delete-operation-for-two-strings](https://github.com/vardhineeditharak/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vardhineeditharak/LeetCode/tree/master/0067-add-binary) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/vardhineeditharak/LeetCode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
