@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vardhineeditharak/LeetCode/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/vardhineeditharak/LeetCode/tree/master/0055-jump-game) |
+| [0079-word-search](https://github.com/vardhineeditharak/LeetCode/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vardhineeditharak/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0139-word-break](https://github.com/vardhineeditharak/LeetCode/tree/master/0139-word-break) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vardhineeditharak/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/vardhineeditharak/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vardhineeditharak/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/vardhineeditharak/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/vardhineeditharak/LeetCode/tree/master/0100-same-tree) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vardhineeditharak/LeetCode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/vardhineeditharak/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/vardhineeditharak/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/vardhineeditharak/LeetCode/tree/master/0139-word-break) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/vardhineeditharak/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -212,5 +215,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/vardhineeditharak/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/vardhineeditharak/LeetCode/tree/master/0131-palindrome-partitioning) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/vardhineeditharak/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
